@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mm96249624
+- 👋 Hi, I’m @mm9624
 - 👀 I’m interested in learning Git hub.
 - 🌱 I’m currently learning it.
 - 💞️ I’m looking to collaborate on Projects.
